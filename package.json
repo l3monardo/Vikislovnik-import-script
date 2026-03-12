@@ -1,0 +1,9 @@
+{
+    "name": "isv-wiktionary-tables",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Node.js bridge for generating ISV declension/conjugation tables",
+    "dependencies": {
+        "@interslavic/utils": "latest"
+    }
+}
